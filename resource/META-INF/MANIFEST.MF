@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: mysql-connector-java-8.0.19.jar weblaf-demo-1.2.12-jar-with-
+ dependencies.jar
+
